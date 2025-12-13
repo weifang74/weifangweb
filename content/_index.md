@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        蔚芳空间智能实验室
+        
       image:
         filename: weifanglab2.jpg
       text: |

@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: 慕课
 
 # Listing view
 view: compact

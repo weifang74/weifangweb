@@ -2,10 +2,10 @@
 title: "城市经济学"
 authors:
 - 蔚芳
-date: "2024-01"
+date: "2024-01-01"
 doi: ""
 
-publishDate: "2024-01"
+publishDate: "2024-01-01"
 
 
 publication_types: ["book"]

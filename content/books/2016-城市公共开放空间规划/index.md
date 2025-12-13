@@ -2,10 +2,10 @@
 title: "城市公共开放空间规划"
 authors:
 - 蔚芳
-date: "2016"
+date: "2016-01-01"
 doi: ""
 
-publishDate: "2016"
+publishDate: "2016-01-01"
 
 
 publication_types: ["book"]
