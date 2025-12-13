@@ -1,0 +1,28 @@
+/* 自定义样式 - 调整论文列表的图片位置和大小 */
+
+/* 强制将 compact 视图的图片移到左侧 */
+.view-compact .article-metadata {
+  display: flex !important;
+  flex-direction: row-reverse !important;
+  align-items: flex-start !important;
+}
+
+.view-compact .article-thumbnail {
+  order: -1 !important;
+  margin-right: 1.5rem !important;
+  margin-left: 0 !important;
+  flex-shrink: 0 !important;
+}
+
+.view-compact .article-thumbnail img {
+  max-width: 150px !important;
+  width: 150px !important;
+  height: auto !important;
+  object-fit: cover !important;
+  border-radius: 5px !important;
+}
+
+/* 调整文字内容区域 */
+.view-compact .section-subheading {
+  flex: 1 !important;
+}
