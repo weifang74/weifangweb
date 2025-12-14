@@ -1,6 +1,7 @@
 /* 自定义样式 - 调整论文列表的图片位置和大小 */
 
 /* 强制将 compact 视图的图片移到左侧 */
+
 .view-compact .article-metadata {
   display: flex !important;
   flex-direction: row-reverse !important;
@@ -22,7 +23,10 @@
   border-radius: 5px !important;
 }
 
-/* 调整文字内容区域 */
+
+
 .view-compact .section-subheading {
   flex: 1 !important;
 }
+
+
