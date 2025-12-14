@@ -14,7 +14,7 @@ from pathlib import Path
 import time
 
 # 配置 Gemini API
-GEMINI_API_KEY = "AIzaSyDYRSPmRGwdROGRD1_5FoHN1r-5zY1Kl7w"  # 请替换为您的API密钥
+GEMINI_API_KEY = ""  # 请替换为您的API密钥
 
 # Gemini API 端点
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
