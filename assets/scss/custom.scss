@@ -29,4 +29,34 @@
   flex: 1 !important;
 }
 
+/* compact 视图：将图片从右侧移到左侧 */
+.media.stream-item.view-compact {
+  display: flex !important;
+  flex-direction: row-reverse !important;
+}
 
+/* 图片容器 ml-3 移到左侧 */
+
+.media.stream-item.view-compact .ml-3 {
+  margin-left: 0 !important;
+  margin-right: 1rem !important;
+}
+
+/* 调整图片大小 */
+.media.stream-item.view-compact .ml-3 img {
+  max-width: 150px !important;
+  width: 150px !important;
+  height: auto !important;
+  object-fit: cover !important;
+  border-radius: 5px !important;
+}
+
+/* 文字内容区域自适应 */
+.media.stream-item.view-compact .media-body {
+  flex: 1 !important;
+}
+
+/* 隐藏 HugoBlox “powered-by” 标记（保留版权行） */
+footer p.powered-by:not(.copyright-license-text) {
+  display: none !important;
+}
