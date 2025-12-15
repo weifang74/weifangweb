@@ -1,9 +1,9 @@
 ---
 title: "Spatial Disparities of Economic Level of Chengdu-Chongqing City Group Based on PCA-ESDA"
 authors:
-- HU Xiaoming
-- LI Xiaolong
-- 蔚芳
+- 胡晓鸣，黎小龙，蔚芳 
+- HU Xiaoming，LI Xiaolong，WEI Fang
+  
 date: "2021-02-01"
 doi: "10.13791/j.cnki.hsfwest.20210210"
 
