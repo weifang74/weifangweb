@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 蔚芳空间智能工作室 # Website name
+title: 浙江大学蔚芳 WEL空间智能工作室 # Website name
 baseURL: 'https://weifang74.github.io/weifangweb/' # Website URL
 
 ############################

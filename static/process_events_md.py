@@ -128,8 +128,12 @@ def parse_events_content(md_path):
         
         body = content[start:end].strip()
         
-        # 移除图片引用
-        body_no_images = re.sub(r'!\[.*?\]\(.*?\)(\{.*?\})?', '', body)
+        # 移除图片引用（包括各种格式）
+        body_no_images = re.sub(r'!\[.*?\]\(.*?\)(\{[^}]*\})?', '', body)
+        # 移除残留的图片尺寸标记 {width="..." height="..."}
+        body_no_images = re.sub(r'\{width="[^"]*"[^}]*\}', '', body_no_images)
+        # 移除 Image 标记
+        body_no_images = re.sub(r'\[Image\]', '', body_no_images)
         # 移除表格语法
         body_no_images = re.sub(r'\+[-=]+\+[-=]+\+', '', body_no_images)
         body_no_images = re.sub(r'\|.*?\|', '', body_no_images)
@@ -137,6 +141,10 @@ def parse_events_content(md_path):
         body_no_images = re.sub(r'^>\s*', '', body_no_images, flags=re.MULTILINE)
         # 移除链接但保留文字
         body_no_images = re.sub(r'<https?://[^>]+>', '', body_no_images)
+        # 移除 http 链接（非尖括号形式）
+        body_no_images = re.sub(r'https?://\S+', '', body_no_images)
+        # 移除表格分隔线
+        body_no_images = re.sub(r'-{20,}', '', body_no_images)
         # 清理多余空行和空格
         body_no_images = re.sub(r'\n{3,}', '\n\n', body_no_images)
         body_no_images = re.sub(r'[ \t]+', ' ', body_no_images)
@@ -148,16 +156,25 @@ def parse_events_content(md_path):
 
 def find_content_for_event(event_title, events_content):
     """为事件找到匹配的正文内容"""
-    # 尝试精确匹配
+    # 清理事件标题用于匹配
+    clean_event = re.sub(r'[—\-\s""*]', '', event_title)
+    
     for title, content in events_content.items():
-        if event_title in title or title in event_title:
+        # 清理解析到的标题
+        clean_title = re.sub(r'[—\-\s""*]', '', title)
+        
+        # 检查是否有足够的重叠
+        if clean_event[:15] in clean_title or clean_title[:15] in clean_event:
             return content
     
     # 尝试关键词匹配
-    keywords = event_title[:10]
-    for title, content in events_content.items():
-        if keywords in title:
-            return content
+    keywords = ["ICCCASU", "大使馆", "西藏", "春节", "顾朝林", "Mueller", "青年学术", 
+                "全球南方", "朱若霖", "北京林业", "总规划师", "2025", "滨海"]
+    for kw in keywords:
+        if kw in event_title:
+            for title, content in events_content.items():
+                if kw in title:
+                    return content
     
     return ""
 
