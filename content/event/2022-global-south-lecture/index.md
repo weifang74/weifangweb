@@ -2,7 +2,7 @@
 title: 全球南方城市挑战——以非洲与中国为例 专题讲座
 
 abstract: |
-  2022年10月20日晚，浙江大学蔚芳副教授参加了由"中国-加拿大-非洲可持续城市化国际合作组织"（ICCCASU）主办的专题讲座"Urban Challenges in the Global South: Case of Africa and China（全球南方城市挑战——以非洲与中国为例）"。讲座采用线下与线上结合的方式吸引了众多学者、研究人员及学生参与。
+  2022年10月20日晚，浙江大学蔚芳副教授参加了由"中国-加拿大-非洲可持续城市化国际合作组织"主办的专题讲座"Urban Challenges in the Global South: Case of Africa and China（全球南方城市挑战——以非洲与中国为例）"。讲座采用线下与线上结合的方式吸引了众多学者、研究人员及学生参与。
 
   本次讲座邀请到安哥拉发展研讨会（Development Workshop Angola）主任Allan Cain先生担任主讲嘉宾。他曾在联合国、欧盟及世界银行等国际机构执行多项任务，同时也是加拿大驻安哥拉名誉领事，并被授予加拿大最高荣誉之一的"加拿大勋章官佐级"。
 
