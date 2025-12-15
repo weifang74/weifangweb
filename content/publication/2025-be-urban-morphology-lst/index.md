@@ -1,5 +1,5 @@
 ---
-title: "Combined effects of urban morphology on land surface temperature and PM2.5 concentration across fine-scale urban blocks in Hangzhou, China"
+title: "Combined Effects of Urban Morphology on Land Surface Temperature and PM2.5 Concentration Across Fine-scale Urban Blocks in Hangzhou, China"
 authors:
 - 陈欣
 - 蔚芳
