@@ -48,6 +48,8 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
         run: |
+          rm -rf resources/_gen  # 删除 Hugo 生成的资源缓存
+          rm -rf .hugo_build.lock  # 删除构建锁文件
           hugo --minify
 
       - name: Upload artifact

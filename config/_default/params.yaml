@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: '蔚芳空间智能工作室'
-    description: '蔚芳空间智能工作室 - 专注于城市规划、空间分析与生态环境研究'
+    org_name: '浙江大学蔚芳 WEL空间智能实验室'
+    description: '浙江大学蔚芳 WEL空间智能实验室 - 专注于城市规划、空间分析与生态环境研究'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -63,21 +63,21 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: main
+    url: 
+    content_dir:
+    branch: 
   avatar:
     gravatar: false
-    shape: circle
+    shape: rounded
   comment:
     provider: ''
     disqus:
