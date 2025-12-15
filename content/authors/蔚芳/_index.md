@@ -29,15 +29,15 @@ education:
   courses:
     - course: 美国弗吉尼亚理工大学，博士，城市规划与管理。 PhD in Urban Affairs and Planning
       institution: Virginia Tech 
-      year: 
+     
 
     - course: 上海同济大学，硕士，城市规划。MS in Urban Planning
       institution: TongJi University
-      year: 
+      
     
     - course: 上海同济大学，学士，城市规划与设计。BSc in Urban Planning and Design
       institution: TongJi University
-      year: 
+      
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
