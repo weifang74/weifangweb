@@ -19,8 +19,8 @@ url_slides: ""
 url_video: ""
 ---
 
-## 会议照片
 
-![image15.jpeg](image15.jpeg)
+
+
 
 
