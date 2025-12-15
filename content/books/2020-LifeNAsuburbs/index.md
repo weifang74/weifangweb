@@ -4,15 +4,15 @@ authors:
 - Jan Nigman
 - Fang Wei
 - Paul Knox
-date: "2019-01-01"
+date: "2020-01-01"
 doi: ""
 
-publishDate: "2019-01-01"
+publishDate: "2020-01-01"
 
 
 publication_types: ["book"]
 
-publication: "浙江大学出版社"
+publication: "多伦多大学出版社"
 publication_short: ""
 
 abstract: |
