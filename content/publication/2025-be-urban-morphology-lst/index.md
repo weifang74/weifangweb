@@ -1,8 +1,8 @@
 ---
 title: "Combined effects of urban morphology on land surface temperature and PM2.5 concentration across fine-scale urban blocks in Hangzhou, China"
 authors:
-- X. Chen
-- 蔚芳
+- Xin Chen, Fang Wei
+- 陈欣，蔚芳
 date: "2025-01-01"
 doi: "None"
 
