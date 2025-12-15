@@ -23,7 +23,7 @@ url_video: ""
 
 ![image10.jpg](image10.jpg)
 
-![featured.jpgp(featured.jpg)
+
 
 
 
