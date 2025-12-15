@@ -1,5 +1,5 @@
 ---
-title: "Spatial Disparities of Economic Level of Chengdu-Chongqing City Group Based on PCA-ESDA"
+title: "基于PCA-ESDA的成渝城市群经济发展空间差异研究"
 authors:
 - 胡晓鸣，黎小龙，蔚芳 
 - HU Xiaoming，LI Xiaolong，WEI Fang
