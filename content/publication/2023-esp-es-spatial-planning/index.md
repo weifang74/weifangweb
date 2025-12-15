@@ -1,8 +1,8 @@
 ---
 title: "A review of ES knowledge use in spatial planning"
 authors:
-- 蔚芳，詹小稳
-- Fang Wei, Xiaowen Zhan
+- 蔚芳
+- 詹小稳
 date: "2023-01-01"
 doi: "https://doi.org/10.1016/j.envsci.2022.11.003"
 
