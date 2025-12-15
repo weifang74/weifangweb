@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:liuxiaohua72@yahoo.com'
+    link: 'mailto:welab@gallexy.dev'
   - icon: twitter
     icon_pack: fab
     link: 
