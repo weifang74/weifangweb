@@ -1,8 +1,8 @@
 ---
 title: "Contributions of Natural Carbon Sink Capacity and Carbon Neutrality in the Context of Net-Zero Carbon Cities: A Case Study of Hangzhou"
 authors:
-- Yuxin Fan
-- 蔚芳
+- Yuxin Fan, Fang Wei
+- 范予昕，蔚芳
 date: "2022-02-25"
 doi: "10.3390/su14052680"
 
