@@ -1,5 +1,5 @@
 ---
-title: "A review of ES knowledge use in spatial planning"
+title: "A Review of ES Knowledge Use in Spatial Planning"
 authors:
 - 蔚芳
 - 詹小稳

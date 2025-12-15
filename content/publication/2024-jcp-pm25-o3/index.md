@@ -1,5 +1,5 @@
 ---
-title: "Impact of territorial spatial landscape pattern on PM2.5 and O3 concentrations in the Yangtze River delta urban agglomeration: Exploration and planning strategies"
+title: "Impact of Territorial Spatial Landscape Pattern on PM2.5 and O3 Concentrations in the Yangtze River Delta Urban Agglomeration: Exploration and Planning Strategies"
 authors:
 - 陈欣
 - 蔚芳

@@ -3,15 +3,16 @@ title: "The Life of North American Suberbs"
 authors:
 - Jan Nigman
 - Fang Wei
-date: "2016-01-01"
+- Paul Knox
+date: "2020-01-01"
 doi: ""
 
-publishDate: "2016-01-01"
+publishDate: "2020-01-01"
 
 
 publication_types: ["book"]
 
-publication: "浙江大学出版社"
+publication: "多伦多大学出版社"
 publication_short: ""
 
 abstract: |

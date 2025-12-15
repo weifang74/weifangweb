@@ -1,5 +1,5 @@
 ---
-title: "Spatial transformation of metropolitan cities"
+title: "Spatial Transformation of Metropolitan Cities"
 authors:
 - 蔚芳
 - 保罗诺克斯

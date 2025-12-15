@@ -1,5 +1,5 @@
 ---
-title: "Influence of urban forest size and form on PM2.5 and O3 concentrations: A perspective of size threshold"
+title: "Influence of Urban Forest Size and Form on PM2.5 and O3 Concentrations: A Perspective of Size Threshold"
 authors:
 - 陈欣
 - 蔚芳
