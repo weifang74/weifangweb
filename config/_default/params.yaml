@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '浙江大学蔚芳 WEL空间智能实验室'
+    notice: 'WEL Lab for Spatial Intelligence'
     license:
       enable: false
       allow_derivatives: false
