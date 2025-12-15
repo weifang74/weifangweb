@@ -1,8 +1,8 @@
 ---
 title: "基于 SD-PLUS耦合模型的杭州市土地利用多情景模拟"
 authors:
-- 蔚芳，蒋雨薇
-- WEI Fang, JIANG Yuwei
+- 蔚芳
+- 蒋雨薇
 date: "2025-01-01"
 doi: "None"
 
