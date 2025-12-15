@@ -1,8 +1,8 @@
 ---
-title: "Multi-scenario simulation of land use change in Hangzhou using the SD-PLUS model"
+title: "基于 SD-PLUS耦合模型的杭州市土地利用多情景模拟"
 authors:
-- 蔚芳
-- JIANG Y W
+- 蔚芳，蒋雨薇
+- WEI Fang, JIANG Yuwei
 date: "2025-01-01"
 doi: "None"
 
