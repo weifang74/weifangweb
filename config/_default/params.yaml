@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} 蔚芳空间智能工作室'
+    notice: '浙江大学蔚芳 WEL空间智能实验室'
     license:
       enable: false
       allow_derivatives: false

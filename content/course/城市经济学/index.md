@@ -1,6 +1,18 @@
 ---
 title: 城市经济学
-date: 2025-01-01
+date: 
+links:
+  - name: 课程链接
+    url: 'https://www.icourse163.org/course/1002ZJU423-1474037167?outVendor=zw_mooc_pclszykctj_'
+    icon_pack: fas
+    
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: 'https://www.icourse163.org/course/1002ZJU423-1474037167?outVendor=zw_mooc_pclszykctj_'
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
 
 快速城市化导致了诸多城市问题，例如城市蔓延、交通拥堵、环境恶化等。这意味着越来越需要城市规划和管理来应对不断出现的问题。考虑到资源配置巨大的社会和经济成本，科学谨慎的决策至关重要。解决城市生产生活中出现的各类矛盾和问题、优化城市空间格局、发挥自然资源生态效益，权衡多方主体利益，都需要从城市经济学的角度出发，了解城市问题背后的基本经济学原理以及解决这些问题的经济方法。

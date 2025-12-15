@@ -10,8 +10,8 @@
   </div>
   {{ end }}
 
-  {{/* Date - 修复：增加 IsZero 判断，防止显示 0001 年 */}}
-  {{ if not (in (slice "talk" "page") $page.Type) }}
+  {{/* Date - 修复：增加 IsZero 判断，防止显示 0001 年。同时排除 event 类型，因为 event 在列表页有专门的日期显示逻辑 */}}
+  {{ if not (in (slice "talk" "page" "event") $page.Type) }}
     {{ if not $page.Date.IsZero }}
       <span class="article-date">
         {{ $page.Date | time.Format (site.Params.date_format | default "2006-01-02") }}

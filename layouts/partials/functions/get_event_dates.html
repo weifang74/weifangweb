@@ -1,0 +1,23 @@
+{{/* Get event dates */}}
+{{/* 修复：如果日期为零值（0001年），则不显示任何内容 */}}
+
+{{ $page := . }}
+{{ $date_format := site.Params.date_format | default "Jan 2, 2006" }}
+{{ $time_format := site.Params.time_format | default "3:04 PM" }}
+
+{{/* 检查日期是否为零值 */}}
+{{ if gt $page.Date.Year 1 }}
+  {{ if $page.Params.all_day }}
+    {{ $page.Date | time.Format $date_format }}
+    {{ with $page.Params.date_end }}
+      {{ if ne (time .).Day $page.Date.Day }}
+        &mdash; {{ . | time.Format $date_format }}
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    {{ $page.Date | time.Format (printf "%s %s" $date_format $time_format) }}
+    {{ with $page.Params.date_end }}
+      &mdash; {{ . | time.Format (printf "%s %s" $date_format $time_format) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
