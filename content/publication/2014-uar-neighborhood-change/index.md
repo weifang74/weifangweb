@@ -1,8 +1,8 @@
 ---
 title: "Neighborhood Change in Metropolitan America, 1990 to 2010"
 authors:
-- 蔚芳
-- Paul L. Knox
+- 蔚芳，保罗诺克斯
+- Fang Wei, Paul L. Knox
 date: "2014-06-23"
 doi: "10.1177/1078087413501640"
 
