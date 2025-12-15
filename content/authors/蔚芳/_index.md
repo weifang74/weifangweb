@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:weif@yzju.edu.cn'
+    link: 'mailto:weif@zju.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://person.zju.edu.cn/weifang2013
