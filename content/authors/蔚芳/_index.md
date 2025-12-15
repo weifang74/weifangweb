@@ -10,7 +10,7 @@ last_name: 蔚
 superuser: true
 
 # Role/position
-role: 副教授
+role: 浙江大学副教授
 
 # Organizations/Affiliations
 organizations:
