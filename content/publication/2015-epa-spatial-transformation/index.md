@@ -1,8 +1,8 @@
 ---
 title: "Spatial transformation of metropolitan cities"
 authors:
-- 蔚芳，保罗诺克斯
-- Fang Wei, Paul L Knox
+- 蔚芳
+- 保罗诺克斯
 date: "2014-10-16"
 doi: "10.1068/a46278"
 
