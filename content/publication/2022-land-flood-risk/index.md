@@ -1,8 +1,8 @@
 ---
 title: "The Effect of Flood Risk on Residential Land Prices"
 authors:
-- 蔚芳，赵吕望
-- Fang Wei, Lvwang Zhao
+- 蔚芳
+- 赵吕望
 date: "2022-09-20"
 doi: "10.3390/land11101612"
 
