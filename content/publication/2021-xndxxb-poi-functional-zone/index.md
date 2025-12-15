@@ -2,7 +2,7 @@
 title: "基于 POI 的城市功能区及其混合度识别研究———以重庆市核心城区为例"
 authors:
 - 胡晓鸣，黎小龙，蔚芳
--HU Xiao-ming，LI Xiao-long，WEI Fang
+- HU Xiao-ming，LI Xiaolong，WEI Fang
   
 date: "2021-01-01"
 doi: "10. 13718/j.cnki. xdzk. 2021.01.019"
