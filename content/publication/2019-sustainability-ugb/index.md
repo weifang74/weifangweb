@@ -1,8 +1,8 @@
 ---
 title: "Delineating Urban Growth Boundaries with Ecosystem Service Evaluation"
 authors:
-- 蔚芳
-- Xiaowen Zhan
+- 蔚芳，詹小稳
+- Fang Wei, Xiaowen Zhan
 date: "2019-09-29"
 doi: "10.3390/su11195390"
 
