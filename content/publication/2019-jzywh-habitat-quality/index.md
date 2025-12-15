@@ -1,5 +1,5 @@
 ---
-title: "Influence Factors and Evaluation Methods on Habitat Quality in Urban Space Control"
+title: "城市空间管控中生境质量的影响要素及评估方法"
 authors:
 - 蔚芳
 - 王雨薇
