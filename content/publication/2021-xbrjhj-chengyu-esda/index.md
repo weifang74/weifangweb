@@ -1,9 +1,9 @@
 ---
 title: "基于PCA-ESDA的成渝城市群经济发展空间差异研究"
 authors:
-- 胡晓鸣，黎小龙，蔚芳 
-- HU Xiaoming，LI Xiaolong，WEI Fang
-  
+- 胡晓鸣 
+- 黎小龙
+- 蔚芳
 date: "2021-02-01"
 doi: "10.13791/j.cnki.hsfwest.20210210"
 
