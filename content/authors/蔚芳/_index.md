@@ -45,10 +45,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:weif@yzju.edu.cn'
   - icon: twitter
     icon_pack: fab
-    link: 
+    link: https://person.zju.edu.cn/weifang2013
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
