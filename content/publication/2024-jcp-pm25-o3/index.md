@@ -1,8 +1,8 @@
 ---
 title: "Impact of territorial spatial landscape pattern on PM2.5 and O3 concentrations in the Yangtze River delta urban agglomeration: Exploration and planning strategies"
 authors:
-- Xin Chen
-- 蔚芳
+- Xin Chen, Fang Wei
+- 陈欣，蔚芳
 date: "2024-04-10"
 doi: "10.1016/j.jclepro.2024.142172"
 
