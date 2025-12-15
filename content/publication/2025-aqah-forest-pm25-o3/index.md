@@ -1,8 +1,8 @@
 ---
 title: "Influence of urban forest size and form on PM2.5 and O3 concentrations: A perspective of size threshold"
 authors:
-- Xin Chen, Fang Wei
-- 陈欣，蔚芳
+- 陈欣
+- 蔚芳
 date: "2025-02-26"
 doi: "10.1007/s11869-025-01722-7"
 
