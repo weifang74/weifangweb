@@ -1,8 +1,8 @@
 ---
-title: "Learning from the Open Space Planning Control in the US"
+title: "美国开放空间规划控制研究与启示"
 authors:
 - 蔚芳
-- 蔚芳
+  
 date: "2016-01-01"
 doi: "None"
 
