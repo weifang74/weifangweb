@@ -1,8 +1,8 @@
 ---
 title: "Reducing PM2.5 and O3 through optimizing urban ecological land form based on its size thresholds"
 authors:
-- Xin Chen
-- 蔚芳
+- Xin Chen, Fang Wei
+- 陈欣，蔚芳
 date: "2025-02-13"
 doi: "https://doi.org/10.1016/j.apr.2025.102466"
 
