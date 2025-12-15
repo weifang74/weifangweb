@@ -5,7 +5,7 @@ authors:
 date: "2026-01-01"
 doi: ""
 
-publishDate: "2026-01-01"
+publishDate: "2025-12-31"
 
 
 publication_types: ["book"]
