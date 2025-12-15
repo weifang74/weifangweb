@@ -48,9 +48,10 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
         run: |
+          rm -rf public/  # 删除之前的输出
           rm -rf resources/_gen  # 删除 Hugo 生成的资源缓存
           rm -rf .hugo_build.lock  # 删除构建锁文件
-          hugo --minify
+          hugo --minify --verbose
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
