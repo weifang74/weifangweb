@@ -1,9 +1,9 @@
 ---
 title: "A Multi-Objective Optimization of Physical Activity Spaces"
 authors:
-- 蔚芳
-- Wenwen Xu
-- Chen Hua
+- 蔚芳，徐雯雯等
+- Fang Wei, Wenwen Xu et al.
+  
 date: "2022-11-07"
 doi: "10.3390/land11111991"
 
