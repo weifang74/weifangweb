@@ -26,8 +26,6 @@ url_video: ""
 
 ![image22.jpeg](image22.jpeg)
 
-![image23.jpeg](image23.jpeg)
-
 ![image24.jpeg](image24.jpeg)
 
 ![image25.jpeg](image25.jpeg)
