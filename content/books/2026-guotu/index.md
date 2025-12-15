@@ -2,10 +2,10 @@
 title: "国土空间规划理论与方法"
 authors:
 - 蔚芳
-date: "2026-01-01"
+date: "2025-12-01"
 doi: ""
 
-publishDate: "2026-01-01"
+publishDate: "2025-12-01"
 
 
 publication_types: ["book"]
@@ -25,7 +25,7 @@ tags:
 
 featured: true
 
-url_pdf: '/books/2024-城市经济学/2024城市经济学.pdf'
+url_pdf: '/books/2026-国土空间规划理论与方法/2026国土空间规划理论与方法.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
