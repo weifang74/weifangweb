@@ -1,0 +1,44 @@
+{{ $is_list := .is_list }}
+{{ $page := .page }}
+
+<div class="article-metadata">
+
+  {{/* Authors */}}
+  {{ if $page.Params.authors }}
+  <div>
+    {{ partial "page_metadata_authors" $page }}
+  </div>
+  {{ end }}
+
+  {{/* Date - 修复：增加 IsZero 判断，防止显示 0001 年 */}}
+  {{ if not (in (slice "talk" "page") $page.Type) }}
+    {{ if not $page.Date.IsZero }}
+      <span class="article-date">
+        {{ $page.Date | time.Format (site.Params.date_format | default "2006-01-02") }}
+      </span>
+    {{ end }}
+  {{ end }}
+
+  {{/* Publication type */}}
+  {{ if eq $page.Type "publication" }}
+  <span class="article-publication">
+    {{ if $page.Params.publication_short }}
+      {{ $page.Params.publication_short | markdownify }}
+    {{ else if $page.Params.publication }}
+      {{ $page.Params.publication | markdownify }}
+    {{ end }}
+  </span>
+  {{ end }}
+
+  {{/* Categories */}}
+  {{ if $page.Params.categories }}
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i>
+    {{ range $index, $item := $page.Params.categories }}
+      {{ if gt $index 0 }}, {{ end }}
+      <a href="{{ "/categories/" | relLangURL }}{{ $item | urlize }}">{{ $item }}</a>
+    {{ end }}
+  </span>
+  {{ end }}
+
+</div>
