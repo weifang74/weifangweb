@@ -31,11 +31,11 @@ education:
       institution: Virginia Tech, PhD in Urban Affairs and Planning
      
 
-    - course: 同济大学，硕士，城市规划
+    - course: 同济大学 硕士，城市规划
       institution: TongJi University, MS in Urban Planning
       
     
-    - course: 同济大学，学士，城市规划与设计
+    - course: 同济大学 学士，城市规划与设计
       institution: TongJi University, BSc in Urban Planning and Design
       
 # Social/Academic Networking
