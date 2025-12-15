@@ -1,8 +1,8 @@
 ---
 title: "Evaluation of Urban Land Suitability under Multiple Sea Level Rise Scenarios"
 authors:
-- Chenxin Ruan，Fang Wei
-- 阮晨昕，蔚芳
+- 阮晨昕
+- 蔚芳
 date: "2024-04-22"
 doi: "10.3390/su16083485"
 
