@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 刘晓华是一位计算机软件专家，长期供职于VMware,Oracle等软件公司，在人工智能、云计算等领域有丰富经验
+bio: 刘晓华是一位计算机软件专家，长期供职于威睿信息技术(VMware),甲骨文(Oracle)等软件公司，在人工智能、云计算等领域有丰富经验
 
 interests:
   - Artificial Intelligence
