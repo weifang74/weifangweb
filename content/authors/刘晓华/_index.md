@@ -71,7 +71,20 @@ user_groups:
   - Principal Investigators
 
 ---
+刘晓华是一位计算机软件专家，长期供职于威睿信息技术(VMware),甲骨文(Oracle)等软件公司，在人工智能、云计算、性能优化等领域有丰富经验。
 
-刘晓华是一位计算机软件专家，长期供职于VMware,Oracle等软件公司，在人工智能、云计算等领域有丰富经验
+## 行业认证：
+1.	SCEA(Sun Certified Enterprise Architect for Java EE)
+2.	SCJD (Sun Certified Java Developer)
+3.	SCJP (Sun Certified Java Programmer)
+4.	SCNA(Sun Certified Network Administrator)
+5.	SCSA(Sun Certified System Administrator)
+6.	VCP(VMware Certified Professional)
+7.	ITIL 2011
+8.	Google certified Advanced Data Analyst
+9.	Google certified Generative AI leader
+10.	Deeplearning.ai certified Deep learning specialization
+
+
 
 
