@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 浙江大学蔚芳 WEL空间智能实验室   WEL Lab for Spatial Intelligence
+title: WEL空间智能实验室   WEL Lab for Spatial Intelligence
 date: 2025-12-12
 type: landing
 

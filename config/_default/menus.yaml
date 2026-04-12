@@ -10,7 +10,7 @@ main:
   - name: 专业课程
     url: course
     weight: 20
-  - name: 团队成员
+  - name: 联系我们
     url: people
     weight: 30
   - name: 学术活动
